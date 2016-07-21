@@ -19,7 +19,7 @@ function fucking(r) { return r + "ff" }
 
 plural("lölero") // "löleroǐ", means "many löleros"
 
-me(imparative(you(plural("lölero"))))
+me(fucking(imparative(you(plural("lölero")))))
 ```
 
 In this case, **"mulöleroǐ!ff"** means something like that: *"I order you to do fucking löleros"*
